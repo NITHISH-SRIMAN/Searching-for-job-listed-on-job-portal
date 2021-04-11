@@ -9,7 +9,9 @@ The objective of the project is to search for the job listed on job portal and s
 With the help of Uipath tool, We are automating the task.
 
 Step 1: Open the browser and search for www.naukri.com 
+
 Step 2: Search for the desired location
+
 Step 3: Save the first 50 records in the excel sheet.
 
 
